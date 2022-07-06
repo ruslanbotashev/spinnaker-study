@@ -64,5 +64,3 @@ spec:
                         backend:
                             serviceName: colonial-trading-microservice-service
                             servicePort: 30201
-
-
